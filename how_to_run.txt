@@ -1,0 +1,11 @@
+1st
+One the terminal where your sql files
+
+2nd
+open mysql using terminal
+
+3rd 
+source .....(file path name)
+
+example -
+source select.sql;
