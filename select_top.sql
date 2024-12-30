@@ -1,0 +1,10 @@
+-- SELECT TOP 4 * FROM table1;
+
+-- SELECT TOP 4 * FROM table1 LIMIT 4;
+
+-- SELECT * FROM table1 FETCH FIRST 4 ROWS ONLY;
+
+
+-- SELECT TOP 2 * FROM table1 WHERE id = 3;
+
+SELECT * FROM table1 WHERE id = 3 LIMIT 2;

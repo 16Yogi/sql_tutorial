@@ -1,0 +1,1 @@
+SELECT DISTINCT name,age FROM table1;

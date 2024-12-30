@@ -1,0 +1,6 @@
+-- SELECT * FROM table1 ORDER BY age RANDOM();
+
+
+-- SELECT * FROM table1 ORDER BY RAND();
+
+SELECT * FROM table1 ORDER BY RAND() LIMIT 1;

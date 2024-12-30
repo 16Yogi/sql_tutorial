@@ -1,0 +1,1 @@
+SELECT * FROM table1 WHERE id=1 AND adhar=0;

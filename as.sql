@@ -1,0 +1,1 @@
+SELECT id AS u_id,name AS ur_name FROM table1;
